@@ -17,8 +17,6 @@
 <h3 align="left">Programming languages:</h3>
 <p align="left"> <img height="45" src="./gnubash.svg"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakerBox&hide=javascript,html)
-
 <h3 align="left">I use the platforms:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
@@ -31,3 +29,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=IPgeolocation&theme=midnight-purple)](https://github.com/BreakerBox/IPgeolocation.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=Pack-Tool&theme=midnight-purple)](https://github.com/BreakerBox/Pack-Tool.git)
+
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BreakerBox)
