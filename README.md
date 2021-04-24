@@ -4,7 +4,7 @@
 <p align="center"I am a ruby ​​programmer👨🏻‍💻<br/>in this Github account will be all the repositories created by me, I hope you like it👍</p>
 
 
-[![BreakerBox's gitHub stats](https://github-readme-stats.vercel.app/api?username=BreakerBox&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![BreakerBox GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakerBox&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakerBox&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,3 +23,9 @@
 
 <h3 align="left">I use the systems:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+## Repositories:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=IPgeolocation&theme=midnight-purple)](https://github.com/BreakerBox/IPgeolocarion.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Pack-Tool&theme=midnight-purple)](https://github.com/BreakerBox/IPgeolocarion.git)
