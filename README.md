@@ -4,9 +4,9 @@
 <p align="center"I am a ruby ​​programmer👨🏻‍💻<br/>in this Github account will be all the repositories created by me, I hope you like it👍</p>
 
 
-[![BreakerBox's gitHub stats](https://github-readme-stats.vercel.app/api?username=BreakerBox&show_icons=true&theme=midnight-purple&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![BreakerBox's gitHub stats](https://github-readme-stats.vercel.app/api?username=BreakerBox&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakerBox&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">I leave the canal tools for you down here 👇</h2>
 
