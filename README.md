@@ -26,6 +26,6 @@
 
 ## Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=IPgeolocation&theme=midnight-purple)](https://github.com/BreakerBox/IPgeolocarion.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=IPgeolocation&theme=midnight-purple)](https://github.com/BreakerBox/IPgeolocation.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=Pack-Tool&theme=midnight-purple)](https://github.com/BreakerBox/IPgeolocarion.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=Pack-Tool&theme=midnight-purple)](https://github.com/BreakerBox/Pack-Tool.git)
