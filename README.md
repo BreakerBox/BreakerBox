@@ -4,7 +4,7 @@
 <p align="center"I am a ruby ​​programmer👨🏻‍💻<br/>in this Github account will be all the repositories created by me, I hope you like it👍</p>
 
 
-[![BreakerBox's gitHub stats](https://github-readme-stats.vercel.app/api?username=BreakerBox&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![BreakerBox's gitHub stats](https://github-readme-stats.vercel.app/api?username=BreakerBox&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
