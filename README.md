@@ -14,7 +14,7 @@
 ![Pack-Tool v0.1](https://img.shields.io/badge/Pack--Tool-v0.1-blue)
 
 ---
-<h3 align="left">Lenguajes de programación:</h3>
+<h3 align="left">Programming languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
 <h3 align="left">I use the platforms:</h3>
