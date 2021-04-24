@@ -2,7 +2,7 @@
 <h2 align="center">¡Hello 👋! I am Breaker 👨🏻‍💻</h2>
 
 <p align="center"I am a ruby ​​programmer👨🏻‍💻<br/>in this Github account will be all the repositories created by me, I hope you like it👍</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreakerBox)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center">I leave the canal tools for you down here 👇</h2>
 
 ![IPgeolocation v0.1](https://img.shields.io/badge/IPgeolocation-%F0%9D%96%9B0.1-blue)
