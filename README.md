@@ -30,5 +30,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=Pack-Tool&theme=midnight-purple)](https://github.com/BreakerBox/Pack-Tool.git)
 
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BreakerBox)
