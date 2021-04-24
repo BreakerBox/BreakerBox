@@ -10,8 +10,8 @@
 
 <h2 align="center">I leave the canal tools for you down here 👇</h2>
 
-![IPgeolocation v0.1](https://img.shields.io/badge/IPgeolocation-%F0%9D%96%9B0.1-blue)
-![Pack-Tool v0.1](https://img.shields.io/badge/Pack--Tool-v0.1-blue)
+[![IPgeolocation v0.1](https://img.shields.io/badge/IPgeolocation-%F0%9D%96%9B0.1-blue)](https://github.com/BreakerBox/IPgeolocation.git)
+[![Pack-Tool v0.1](https://img.shields.io/badge/Pack--Tool-v0.1-blue)](https://github.com/BreakerBox/Pack-Tool.git)
 
 ---
 <h3 align="left">Programming languages:</h3>
